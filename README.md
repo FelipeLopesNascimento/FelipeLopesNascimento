@@ -17,7 +17,7 @@ Sobre mim
 
 Linguagens e Ferramentas
 
-Linguagens: Python, Ruby, SQL
+Linguagens: HTML, CSS, JavaScript, TypeScript
 
 Ferramentas: Git, GitHub, VS Code
 
