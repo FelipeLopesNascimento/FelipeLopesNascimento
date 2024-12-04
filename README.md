@@ -17,13 +17,13 @@ Sobre mim
 
 Linguagens e Ferramentas
 
-Linguagens: HTML, CSS, JavaScript, TypeScript
+Linguagens: HTML, CSS, JavaScript, TypeScript, C#
 
 Ferramentas: Git, GitHub, VS Code
 
 Metodologias: Scrum
 
-Tecnologias: Angular
+Tecnologias: Angular, MongoDB, Sql Server
 
 Vamos conectar!
 💼 [LinkedIn](https://www.linkedin.com/in/felipelopesnascimento/)
