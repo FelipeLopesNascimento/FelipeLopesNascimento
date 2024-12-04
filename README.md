@@ -9,7 +9,7 @@ Olá! Eu sou o Felipe Lopes do Nascimento 👋
 
 Sobre mim
 
-🔍 Atualmente cursando Engenharia de Software e ciência de dados.
+🔍 Atualmente cursando Engenharia de Software e Ciência de Dados.
 
 📈 Estou desenvolvendo projetos que aplicam conceitos de programação orientada a objetos, estruturas de dados e algoritmos.
 
